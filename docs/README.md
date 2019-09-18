@@ -1,3 +1,7 @@
+---
+---
+
+@import "{{ site.theme }}";
 ## Status pages for popular sites
 
 * [Amazon AWS](https://status.aws.amazon.com)
