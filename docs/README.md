@@ -1,3 +1,5 @@
 * [Amazon AWS](https://status.aws.amazon.com)
+* [Cloudflare system status](https://www.cloudflarestatus.com)
 * [Google GSuite](https://www.google.com/appsstatus#hl=en&v=status)
+* [Microsoft Azure Status](https://status.azure.com/en-us/status)
 * [Reddit](https://reddit.statuspage.io)
