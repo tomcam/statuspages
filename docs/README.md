@@ -1,4 +1,5 @@
-## Amazon AWS
+## Status pages for popular sites
+
 * [Amazon AWS](https://status.aws.amazon.com)
 * [Cloudflare system status](https://www.cloudflarestatus.com)
 * [Google Cloud](https://status.cloud.google.com/)
